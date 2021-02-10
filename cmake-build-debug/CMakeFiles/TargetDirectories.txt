@@ -1,0 +1,3 @@
+C:/Users/phala/CLionProjects/OU_Clion_github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/phala/CLionProjects/OU_Clion_github/cmake-build-debug/CMakeFiles/OU_Clion_github.dir
+C:/Users/phala/CLionProjects/OU_Clion_github/cmake-build-debug/CMakeFiles/edit_cache.dir
